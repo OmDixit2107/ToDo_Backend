@@ -1,4 +1,4 @@
-package net.javaguides.todo;
+package net.project.todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,8 +1,8 @@
-package net.javaguides.todo.security;
+package net.project.todo.security;
 
 import lombok.AllArgsConstructor;
-import net.javaguides.todo.entity.User;
-import net.javaguides.todo.repository.UserRepository;
+import net.project.todo.entity.User;
+import net.project.todo.repository.UserRepository;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

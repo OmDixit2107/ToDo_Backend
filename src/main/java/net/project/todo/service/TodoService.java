@@ -1,6 +1,6 @@
-package net.javaguides.todo.service;
+package net.project.todo.service;
 
-import net.javaguides.todo.dto.TodoDto;
+import net.project.todo.dto.TodoDto;
 
 import java.util.List;
 

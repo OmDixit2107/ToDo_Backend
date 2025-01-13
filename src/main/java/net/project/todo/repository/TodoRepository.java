@@ -1,6 +1,6 @@
-package net.javaguides.todo.repository;
+package net.project.todo.repository;
 
-import net.javaguides.todo.entity.Todo;
+import net.project.todo.entity.Todo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface TodoRepository extends JpaRepository<Todo, Long> {

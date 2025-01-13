@@ -1,4 +1,4 @@
-package net.javaguides.todo;
+package net.project.todo;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;

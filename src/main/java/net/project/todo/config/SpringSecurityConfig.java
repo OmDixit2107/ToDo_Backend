@@ -1,4 +1,4 @@
-package net.javaguides.todo.config;
+package net.project.todo.config;
 
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;

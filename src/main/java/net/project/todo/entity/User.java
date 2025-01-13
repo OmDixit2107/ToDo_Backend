@@ -1,4 +1,4 @@
-package net.javaguides.todo.entity;
+package net.project.todo.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,11 +1,11 @@
-package net.javaguides.todo.service.impl;
+package net.project.todo.service.impl;
 
 import lombok.AllArgsConstructor;
-import net.javaguides.todo.dto.TodoDto;
-import net.javaguides.todo.entity.Todo;
-import net.javaguides.todo.exception.ResourceNotFoundException;
-import net.javaguides.todo.repository.TodoRepository;
-import net.javaguides.todo.service.TodoService;
+import net.project.todo.dto.TodoDto;
+import net.project.todo.entity.Todo;
+import net.project.todo.exception.ResourceNotFoundException;
+import net.project.todo.repository.TodoRepository;
+import net.project.todo.service.TodoService;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Service;
 

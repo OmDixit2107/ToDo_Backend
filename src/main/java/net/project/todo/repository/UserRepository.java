@@ -1,6 +1,6 @@
-package net.javaguides.todo.repository;
+package net.project.todo.repository;
 
-import net.javaguides.todo.entity.User;
+import net.project.todo.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

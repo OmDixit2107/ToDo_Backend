@@ -1,4 +1,4 @@
-package net.javaguides.todo.dto;
+package net.project.todo.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

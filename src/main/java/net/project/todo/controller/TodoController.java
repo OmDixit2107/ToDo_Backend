@@ -1,8 +1,8 @@
-package net.javaguides.todo.controller;
+package net.project.todo.controller;
 
 import lombok.AllArgsConstructor;
-import net.javaguides.todo.dto.TodoDto;
-import net.javaguides.todo.service.TodoService;
+import net.project.todo.dto.TodoDto;
+import net.project.todo.service.TodoService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
